@@ -1,0 +1,16 @@
+{
+    "settingLanguage": "English",
+    "welcome": "Selamat datang {username}",
+    "@welcome": {
+        "placeholders": {
+            "username": {
+                "type": "String"
+            }
+        }
+    },
+    "homeAppBarTitle": "Laman Utama",
+    "settingAppBarTitle": "Tetapan",
+    "@settingAppBarTitle": {
+        "description": "Setting page app bar title."
+    }
+}

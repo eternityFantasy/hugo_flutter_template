@@ -1,0 +1,16 @@
+{
+    "settingLanguage": "English",
+    "welcome": "Welcome {username}",
+    "@welcome": {
+        "placeholders": {
+            "username": {
+                "type": "String"
+            }
+        }
+    },
+    "homeAppBarTitle": "Home",
+    "settingAppBarTitle": "Settings",
+    "@settingAppBarTitle": {
+        "description": "Setting page app bar title."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "settingLanguage": "English",
+    "welcome": "欢迎 {username}",
+    "@welcome": {
+        "placeholders": {
+            "username": {
+                "type": "String"
+            }
+        }
+    },
+    "homeAppBarTitle": "首页",
+    "settingAppBarTitle": "设置",
+    "@settingAppBarTitle": {
+        "description": "Setting page app bar title."
+    }
+}

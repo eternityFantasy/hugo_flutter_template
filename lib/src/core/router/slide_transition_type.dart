@@ -1,0 +1,4 @@
+enum SlidePosition {
+  left,
+  right,
+}

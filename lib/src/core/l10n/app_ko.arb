@@ -1,0 +1,16 @@
+{
+    "settingLanguage": "English",
+    "welcome": "환영합니다 {username}님",
+    "@welcome": {
+        "placeholders": {
+            "username": {
+                "type": "String"
+            }
+        }
+    },
+    "homeAppBarTitle": "홈",
+    "settingAppBarTitle": "설정",
+    "@settingAppBarTitle": {
+        "description": "Setting page app bar title."
+    }
+}
